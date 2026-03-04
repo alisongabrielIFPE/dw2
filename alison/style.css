@@ -1,0 +1,49 @@
+
+
+
+body {
+    background-color: #f0f0f0; 
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center; 
+    padding: 20px;
+}
+
+.caixa-principal {
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px; 
+
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 5px;
+}
+
+h3 {
+
+    background-color: #e7f3ff;
+    padding: 5px;
+}
+
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
